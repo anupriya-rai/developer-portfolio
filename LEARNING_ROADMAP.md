@@ -28,10 +28,21 @@ Career Goal: Software Developer
 ## 3. Six-Semester Learning Roadmap
 
 ### Semester 1 – Foundations
+
+**University Subjects**
+- Mathematics
+- Chemistry
+- Physics
+- Basic Programming
+
+**Technical Learning**
 - Learn Python basics.
 - Understand programming fundamentals.
 - Practise basic coding problems.
 - Learn basic Git and GitHub.
+
+**Project / Deliverable**
+- Create and maintain a beginner CSE lab portfolio on GitHub.
 
 ### Semester 2 – Core Computer Science
 - Learn Data Structures and Algorithms.
@@ -69,10 +80,11 @@ Student Management System
 
 The project will help manage student details, records and academic information. It will gradually develop from a basic Python program into a database-connected application and then a web application.
 
-## 5. Monthly Learning Targets
-1. Complete Python basics.
-2. Solve 10 coding problems.
-3. Complete GitHub portfolio.
+## 5. Monthly Learning Targets – Current Semester
+
+1. Complete Python fundamentals and solve at least 10 beginner programming problems.
+2. Revise university Basic Programming concepts weekly and complete assigned lab work on time.
+3. Upload at least one beginner programming exercise to GitHub with a README.
 
 ## 6. Mentorship
 Faculty/Senior Mentor: Not decided yet.
